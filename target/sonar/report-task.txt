@@ -1,0 +1,5 @@
+projectKey=sharma.prateek:webscraping
+serverUrl=http://31.220.58.70:9000
+dashboardUrl=http://31.220.58.70:9000/dashboard/index/sharma.prateek:webscraping
+ceTaskId=AXkTK-XtHPWHAltAx_a8
+ceTaskUrl=http://31.220.58.70:9000/api/ce/task?id=AXkTK-XtHPWHAltAx_a8
